@@ -1,0 +1,48 @@
+# langchain==0.1.0
+# langchain-community==0.0.13
+# sentence-transformers==2.2.2
+# beautifulsoup4==4.12.2
+# requests==2.31.0
+# faiss-cpu==1.7.4
+# huggingface-hub==0.19.4
+# langchain-groq==0.0.1
+# python-dotenv
+
+
+# Core
+python-dotenv==1.0.1
+requests==2.32.3
+
+# LangChain ecosystem (latest stable, fully compatible)
+langchain==1.0.5
+langchain-core==1.0.0
+langchain-community==0.4.1
+langchain-text-splitters==1.0.0
+langchain-groq==0.1.0
+
+# Vector store
+faiss-cpu==1.8.0.post1
+
+# Embeddings
+sentence-transformers==3.1.0
+huggingface-hub==0.25.1
+
+# Web scraping (for your `scrapper.py`)
+beautifulsoup4==4.12.3
+html5lib==1.1
+
+# TensorFlow (used internally by embedding models)
+tensorflow-intel==2.16.1
+tf-keras==2.16.0
+ml-dtypes==0.3.1
+tensorboard==2.16.2
+protobuf==4.25.3
+
+# Utility
+tqdm==4.66.5
+numpy==1.26.4
+pandas==2.2.2
+
+streamlit
+playwright
+

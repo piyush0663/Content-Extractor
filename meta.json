@@ -1,0 +1,12 @@
+[
+  {
+    "id": "https://www.geeksforgeeks.org/dsa/sorting-algorithms/__chunk_0",
+    "source": "https://www.geeksforgeeks.org/dsa/sorting-algorithms/",
+    "text": "is used to rearrange a given array or list of elements in an order. For example, a given array [10, 20, 5, 2] becomes [2, 5, 10, 20] after sorting in increasing order and becomes [20, 10, 5, 2] after sorting in decreasing order.\nThere exist different sorting algorithms for different different types of inputs, for example a binary array, a character array, an array with a large range of values or an array with many duplicates or a small vs large array.\nThe algorithms may also differ according to output requirements. For example, stable sorting (or maintains original order of equal elements) or not stable.\nSort even and odd placed in different orders\nSmallest Difference Triplet from Three arrays\nMin Unsorted Subarray to make array sorted\nSort n numbers in range from 0 to n^2 – 1\nSort according to order defined by another\nPermute two arrays such that all pair suns are greater than K\n[More problems an 4 Sum are in Hard Section]\nLearn Data Structure and Algorithms | DSA Tutorial"
+  },
+  {
+    "id": "https://www.geeksforgeeks.org/dsa/sorting-algorithms/__chunk_1",
+    "source": "https://www.geeksforgeeks.org/dsa/sorting-algorithms/",
+    "text": "ng to order defined by another\nPermute two arrays such that all pair suns are greater than K\n[More problems an 4 Sum are in Hard Section]\nLearn Data Structure and Algorithms | DSA Tutorial"
+  }
+]
