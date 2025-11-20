@@ -5,6 +5,8 @@ Uses **Playwright** for dynamic web scraping, **LangChain** for chunking & retri
 
 ---
 
+<img width="1900" height="776" alt="Screenshot 2025-11-20 181609" src="https://github.com/user-attachments/assets/d652cb63-c5b3-4e8d-bf51-f04928d343c7" />
+
 ## Features
 - Dynamic web scraping with Playwright (handles JS-heavy pages)
 - Text chunking, embedding, and retrieval via LangChain
